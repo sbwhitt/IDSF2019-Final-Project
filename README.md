@@ -9,6 +9,7 @@ Intro to Data Science Fall 2019 Final Project
   Handles all data preprocessing, including:
   <ul>
     <li>Sentiment score retrieval</li>
+    <li>Lemmatization</li>
     <li>Stop word removal</li>
     <li>Genre merges</li>
     <li>Data cleaning</li>
